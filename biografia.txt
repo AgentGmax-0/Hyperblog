@@ -3,10 +3,4 @@ i have 18 year ord
 ahora vivo en ibagues
 todo es culpa del pepe
 mañana es el peor dia
-<<<<<<< HEAD
-hola soy jostin y tengo 17 años
-=======
-------
-Hola soy Hugo y estamos repasando Git
-che
->>>>>>> header
+Hugo es parte de este proyecto
