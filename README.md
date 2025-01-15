@@ -9,5 +9,10 @@ En este curso desarrollaremos:
 	Trucos muy locos del profesor
 	Las personalidades múltiples de Freddy
 
+	Creado por el increible Platzi Team
+	Ingluye ejemplos en windows, linus y mac 
+	Disponible para todas las edades 
+    Toda la culpa la tiene ...
+	Pollo y arroz
 y como un amable recordatorio **Este readme.md es un chiste**.
  Diseñado para el ejemplo en clase. Si llegas acá No te lo tomes enserio y mejor ve a ver los curso de [Git](https://platzi.com/cursos/git-github/ "Git")
